@@ -1,0 +1,34 @@
+
+  {% assign posts_collate = site.posts %}
+
+  {% assign flg = "false" %}
+  {% capture prev_year %}{{ posts_this_year }}{% endcapture %}
+
+  <h4 class="alignment-text">年別アーカイブ</h4>
+
+  <h3>
+  {% for post in posts_collate  %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+
+    {% if forloop.first %}
+      {% if this_year == posts_this_year %}
+        {{ this_year }}年<br>
+      {% else %}
+        <a href="{{ HOME_PATH }}archive/{{ this_year }}.html">{{ this_year }}年</a><br>
+      {% endif %}
+    {% else %}
+      {% if this_year == prev_year %}
+      {% else %}
+        {% if this_year == posts_this_year %}
+          {{ this_year }}年<br>
+        {% else %}
+          <a href="{{ HOME_PATH }}archive/{{ this_year }}.html">{{ this_year }}年</a><br>
+        {% endif %}
+      {% endif %}
+    {% endif %}
+    {% capture prev_year %}{{ this_year }}{% endcapture %}
+  {% endfor %}
+  </h3>
+<br>
+{% assign posts_collate = nil %}
+{% assign posts_this_year = nil %}

@@ -1,0 +1,9 @@
+<h4 class="alignment-text">最新記事</h4>
+{% for post in site.posts %}
+{% if forloop.index < 5  %}
+  <h5>{{ post.eventdate }}</h5>
+  <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+  <hr>
+{% endif %}
+{% endfor %}
+<br>
