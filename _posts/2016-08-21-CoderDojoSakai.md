@@ -1,10 +1,11 @@
 ---
 layout: post
 category : blog
-title : 第８回 CoderDojo堺
+title : 第８回 CoderDojo堺＠パンゲア
 eventdate : ２０１６年８月２１日
-topimgfilename :
+topimgfilename : IMG_3654.JPG
 sentence : '
+８月２１（日）に８回目のCoderDojo堺がパンゲアで開催されました。
 '
 sentence2 : '
 '

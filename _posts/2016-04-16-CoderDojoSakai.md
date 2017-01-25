@@ -3,7 +3,7 @@ layout: post
 category : blog
 title : 第３回 CoderDojo堺
 eventdate : ２０１６年４月１６日
-topimgfilename :
+topimgfilename : Dummy.png
 sentence : '
 '
 sentence2 : '
