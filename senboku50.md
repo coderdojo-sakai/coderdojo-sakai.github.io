@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CoderDojo 堺（寄付）
+title: 泉北NT５０周年事業
 ---
 {% include JB/setup %}
 
@@ -11,24 +11,24 @@ title: CoderDojo 堺（寄付）
         <br>
         <span class="visible-sm visible-md visible-lg">
             <h1>
-                <span class="heading-r">寄付・寄贈について</span>
-                <span class="heading-r-re "></span>
+            <span class="heading-r">泉北ニュータウン５０周年事業</span>
+            <span class="heading-r-re "></span>
             </h1>
         </span>
         <span class="visible-xs">
             <h3>
-                <span class="heading-r">寄付・寄贈について</span>
-                <span class="heading-r-re "></span>
+            <span class="heading-r">泉北ニュータウン５０周年事業</span>
+            <span class="heading-r-re "></span>
             </h3>
         </span>
-        <br>
     </div>
     <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2"></div>
 </div>
 
 <div class="row coderdojobgcolor-base2">
     <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2"></div>
-    <div class="col-xs-10 col-sm-10 col-md-8 col-lg-8 text-center">
+    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 text-center">
+        <br>
         <h4 class="alignment-text-r">
             CoderDojo堺は非営利の活動として運営しているため、寄付・寄贈を随時募集しております。<br>
             <br>
@@ -38,17 +38,6 @@ title: CoderDojo 堺（寄付）
             頂いたご支援は、CoderDojo堺の活動費（会場費用・機器代など）に活用させていただきます。
         </h4>
         <br>
-    </div>
-    <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2"></div>
-</div>
-
-<div class="row ">
-  <div class="col-xs-1 col-sm-1 col-md-1 col-lg-2"></div>
-  <div class="col-xs-12 col-sm-12 col-md-10 col-lg-8 text-center">
-    <div>
-      <script type="text/javascript">var submitted=false;</script>
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSerjy_0_qHKMRsl9dByY_FfR38kBNnKGnS76b7wkatkZ1m1YA/viewform?embedded=true" width="100%" height="1200px" frameborder="0" >読み込んでいます...</iframe>
-    </div>
   </div>
-  <div class="col-xs-1 col-sm-1 col-md-1 col-lg-2"></div>
+  <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2"></div>
 </div>

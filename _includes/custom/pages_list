@@ -14,6 +14,7 @@
     活動内容 <span class="caret"></span>
   </a>
   <ul class="dropdown-menu">
+    <li><a href="/#event">イベント</a></li>
     <li><a href="/#blog">ブログ</a></li>
     <li><a href="/#calendar">カレンダー</a></li>
     <li><a href="/#scratch">Scratchのスタジオ</a></li>
