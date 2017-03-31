@@ -30,7 +30,7 @@ author :
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 #production_url : http://coderdojo-sakai.github.io
-production_url : https://yasuzeni01.github.io/coderdojo-sakai.github.io
+production_url :  http://coderdojo-sakai.github.io
 
 #gems: ["jekyll-sitemap"]
 
@@ -72,7 +72,7 @@ JB :
   #   /assets
   #
   # ASSET_PATH : false
-  ASSET_PATH : /assets/themes
+  ASSET_PATH : {{baseurl}}/assets/themes
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
