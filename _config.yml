@@ -13,6 +13,7 @@ future: BOOL
 #
 title : CoderDojoSakai
 tagline: Site Tagline
+baseurl : https://yasuzeni01.github.io/coderdojo-sakai.github.io
 author :
   name : CoderDojo堺
   email : blah@email.test
