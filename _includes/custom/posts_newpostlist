@@ -2,7 +2,7 @@
 {% for post in site.posts %}
 {% if forloop.index < 5  %}
   <h5>{{ post.eventdate }}</h5>
-  <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+  <h5><a href="{{BASE_PATH}}{{ post.url }}">{{ post.title }}</a></h5>
   <hr>
 {% endif %}
 {% endfor %}

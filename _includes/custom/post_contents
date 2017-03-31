@@ -1,4 +1,4 @@
-{% capture image_path %}./images/{{ postdata.date | date: '%Y-%m-%d' }}/{% endcapture %}
+{% capture image_path %}{{BASE_PATH}}/images/{{ postdata.date | date: '%Y-%m-%d' }}/{% endcapture %}
 
 <div class="row coderdojobgcolor-w">
   <div class="col-xs-12 col-sm-12 col-md-5 col-lg-5 alignment-text">

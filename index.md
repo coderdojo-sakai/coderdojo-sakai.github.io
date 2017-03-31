@@ -19,10 +19,10 @@ title: CoderDojo 堺
       CoderDojo堺は、子どもたちにプログラミングやコーディングのサポートをする非営利活動です。<br>
     </h1>
     <br>
-    <p class="visible-xs">xs<br></p>
-    <p class="visible-sm">sm<br></p>
-    <p class="visible-md">md<br></p>
-    <p class="visible-lg">lg<br></p>
+    <p class="visible-xs"><br></p>
+    <p class="visible-sm"><br></p>
+    <p class="visible-md"><br></p>
+    <p class="visible-lg"><br></p>
     <br><br><br>
   </div>
 </div>
@@ -299,8 +299,8 @@ title: CoderDojo 堺
       <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 center-block">
         <div class="thumbnail">
         <h4>{{ post.eventdate }}</h4> <br>
-        <a href="{{ post.url }}"><img src="./images/{{ post.date | date: '%Y-%m-%d' }}/{{ post.topimgfilename }}" width="100%" alt="{{ post.title }}" class="img-responsive img-rounded center-block"></a>
-        <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+        <a href="{{BASE_PATH}}{{ post.url }}"><img src="./images/{{ post.date | date: '%Y-%m-%d' }}/{{ post.topimgfilename }}" width="100%" alt="{{ post.title }}" class="img-responsive img-rounded center-block"></a>
+        <h5><a href="{{BASE_PATH}}{{ post.url }}">{{ post.title }}</a></h5>
       </div>
       </div>
     {% endif %}

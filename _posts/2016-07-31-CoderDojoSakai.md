@@ -3,8 +3,9 @@ layout: post
 category : blog
 title : 第７回 CoderDojo堺
 eventdate : ２０１６年７月３１日
-topimgfilename : Dummy.png
+topimgfilename : IMG_9313.JPG
 sentence : '
+第７回のCoderDojo堺は、パンゲアで行いました。
 '
 sentence2 : '
 '
