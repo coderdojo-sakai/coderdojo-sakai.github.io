@@ -189,6 +189,16 @@
   padding-right:10px;
 }
 
+.midasi-r{
+  background: -webkit-linear-gradient(top , rgba(240, 200, 0, 0.0) 85%, rgba(255, 100, 0, 1));
+  background: -moz-linear-gradient (top , rgba(255, 0, 0, 0.1) 50%, rgba(255, 0, 0, 1));
+  background: -ms-linear-gradient (top , rgba(255, 0, 0, 0.1) 50%, rgba(255, 0, 0, 1));
+  background: -o-linear-gradient (top , rgba(255, 0, 0, 0.1) 50%, rgba(255, 0, 0, 1));
+  background: linear-gradient (top , rgba(255, 0, 0, 0.1) 50%, rgba(255, 0, 0, 1));
+  padding-left:10px;
+  padding-right:10px;
+}
+
 .heading-r{
 	position:relative;
 	padding-left:20px;
