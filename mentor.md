@@ -29,7 +29,7 @@ title: CoderDojo 堺（メンター募集）
     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-                <img src="/images/mentor001.jpg" alt="CoderDojo堺" class="img-responsive img-rounded center-block imageshadow" style="width:100%">
+                <img src="./images/mentor001.jpg" alt="CoderDojo堺" class="img-responsive img-rounded center-block imageshadow" style="width:100%">
                 <br>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 text-left">
@@ -78,7 +78,7 @@ title: CoderDojo 堺（メンター募集）
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-5 col-lg-5 col-md-push-7 col-lg-push-7">
                 <br>
-                <img src="/images/mentor002.png" alt="CoderDojo堺" class="img-responsive img-rounded center-block imageshadow" style="width:100%">
+                <img src="./images/mentor002.png" alt="CoderDojo堺" class="img-responsive img-rounded center-block imageshadow" style="width:100%">
                 <br>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-7 col-lg-7 col-md-pull-5 col-lg-pull-5 text-left">
@@ -115,7 +115,7 @@ title: CoderDojo 堺（メンター募集）
             という方がいらっしゃいましたら、以下のボタンからご連絡下さい。<br>
         </h4>
         <div class="text-center">
-            <a class="btn btn-info btn-lg" href="/donation.html" role="button">寄付・寄贈はこちらから</a>
+            <a class="btn btn-info btn-lg" href="./donation.html" role="button">寄付・寄贈はこちらから</a>
         </div>
         <h4>
             CoderDojo堺では、随時、寄付・寄贈を募集しております。

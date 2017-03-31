@@ -1,12 +1,12 @@
-<li class="navcolor"><a href="{{ HOME_PATH }}" >ホーム</a></li>
+<li class="navcolor"><a href="./index.html" >ホーム</a></li>
 <li class="dropdown">
   <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
     CoderDojoとは <span class="caret"></span>
   </a>
   <ul class="dropdown-menu">
-    <li><a href="/#about-coderdojo">CoderDojoとは</a></li>
-    <li><a href="/#about-coderdojo-sakai">CoderDojo堺とは</a></li>
-    <li><a href="/report.html">会計報告</a></li>
+    <li><a href="./index.html#about-coderdojo">CoderDojoとは</a></li>
+    <li><a href="./index.html#about-coderdojo-sakai">CoderDojo堺とは</a></li>
+    <li><a href="./report.html">会計報告</a></li>
   </ul>
 </li>
 <li class="dropdown">
@@ -14,12 +14,12 @@
     活動内容 <span class="caret"></span>
   </a>
   <ul class="dropdown-menu">
-    <li><a href="/#event">イベント</a></li>
-    <li><a href="/#blog">ブログ</a></li>
-    <li><a href="/#calendar">カレンダー</a></li>
-    <li><a href="/#scratch">Scratchのスタジオ</a></li>
+    <li><a href="./index.html#event">イベント</a></li>
+    <li><a href="./index.html#blog">ブログ</a></li>
+    <li><a href="./index.html#calendar">カレンダー</a></li>
+    <li><a href="./index.html#scratch">Scratchのスタジオ</a></li>
   </ul>
 </li>
-<li><a href="/mentor.html">メンターになる</a></li>
+<li><a href="./mentor.html">メンターになる</a></li>
 <li><a href="https://coderdojo-sakai.connpass.com/" target="_blank">忍者（子供）の参加</a></li>
-<li class="kifu"><a href="/donation.html" >寄付をする</a></li>
+<li class="kifu"><a href="./donation.html" >寄付をする</a></li>

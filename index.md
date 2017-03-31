@@ -7,7 +7,7 @@ title: CoderDojo 堺
 <!-- トップの画像 -->
 <div class="row">
   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-    <img src="{{ HOME_PATH }}images/top.png" alt="CoderDojo堺" class="img-responsive center-block topimage imageshadow">
+    <img src="./images/top.png" alt="CoderDojo堺" class="img-responsive center-block topimage imageshadow">
   </div>
 </div>
 
@@ -183,7 +183,7 @@ title: CoderDojo 堺
             </h4>
             <h5>※CoderDojoでは、ボランティアとして参加してくれている大人をメンターと呼んでいます。</h5>
             <div class="text-center">
-                <a class="btn btn-info btn-lg" href="/mentor.html" role="button">メンターの詳細や申し込みはこちら</a>
+                <a class="btn btn-info btn-lg" href="./mentor.html" role="button">メンターの詳細や申し込みはこちら</a>
             </div>
             <br><br>
         </div>
@@ -212,7 +212,7 @@ title: CoderDojo 堺
       もし、あなたにできることがあればCoderDojo堺を一緒に育ててください。
     </h3>
       <br>
-    <a class="btn btn-info btn-lg" href="/donation.html" role="button">寄付・寄贈に関してはこちら</a>
+    <a class="btn btn-info btn-lg" href="./donation.html" role="button">寄付・寄贈に関してはこちら</a>
     <br><br>
   </div>
   <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1"></div>
@@ -262,7 +262,7 @@ title: CoderDojo 堺
             そこで、泉北ニュータウンの新たなまちの形成につながる企画を一般公募し、５０周年を祝おうというイベントです。<br>
             その一般公募に、CoderDojo堺が当選し、参加する事が決まりました。<br>
         </h4>
-        <a class="btn btn-info btn-lg" href="/senboku50.html" role="button">泉北５０周年参加内容</a>
+        <a class="btn btn-info btn-lg" href="./senboku50.html" role="button">泉北５０周年参加内容</a>
         <br><br><br>
     </div>
     <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2"></div>
@@ -299,7 +299,7 @@ title: CoderDojo 堺
       <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 center-block">
         <div class="thumbnail">
         <h4>{{ post.eventdate }}</h4> <br>
-        <a href="{{ post.url }}"><img src="{{ HOME_PATH }}images/{{ post.date | date: '%Y-%m-%d' }}/{{ post.topimgfilename }}" width="100%" alt="{{ post.title }}" class="img-responsive img-rounded center-block"></a>
+        <a href="{{ post.url }}"><img src="./images/{{ post.date | date: '%Y-%m-%d' }}/{{ post.topimgfilename }}" width="100%" alt="{{ post.title }}" class="img-responsive img-rounded center-block"></a>
         <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
       </div>
       </div>
@@ -316,7 +316,7 @@ title: CoderDojo 堺
           {% capture this_year %}{{ post.date | date: '%Y' }}{% endcapture %}
         {% endif %}
       {% endfor %}
-      <a href="/archive/{{this_year}}.html" role="button">もっと見る...</a>
+      <a href="./archive/{{this_year}}.html" role="button">もっと見る...</a>
     </h2>
     <br>
   </div>
@@ -376,7 +376,7 @@ title: CoderDojo 堺
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
                 <a href="https://scratch.mit.edu/studios/2215089/" target="scratch">
-                    <img src="/images/ScratchStudio.png" alt="CoderDojo堺 スタジオ" class="img-responsive img-rounded center-block imageshadow" style="width:100%">
+                    <img src="./images/ScratchStudio.png" alt="CoderDojo堺 スタジオ" class="img-responsive img-rounded center-block imageshadow" style="width:100%">
                 </a>
                 <br><br>
             </div>

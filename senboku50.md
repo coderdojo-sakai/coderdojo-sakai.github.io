@@ -24,7 +24,7 @@ title: 泉北NT５０周年事業
 
         <div class="row coderdojobgcolor-base2">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
-                <img src="/images/eventImages/senboku50/DSC00039.JPG" alt="CoderDojo堺 スタジオ" class="img-responsive img-rounded center-block imageshadow" style="width:100%">
+                <img src="./images/eventImages/senboku50/DSC00039.JPG" alt="CoderDojo堺 スタジオ" class="img-responsive img-rounded center-block imageshadow" style="width:100%">
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 text-center">
                 <h4 class="text-left">
@@ -49,7 +49,7 @@ title: 泉北NT５０周年事業
             <br>
             やってみたいと思われる方は、以下のボタンから、メンター申し込みフォームに必要事項を記載の上、ご連絡頂ければと思います。<br>
         </h4>
-        <a class="btn btn-info btn-lg" href="/mentor.html" role="button">メンター申し込みはこちら</a>
+        <a class="btn btn-info btn-lg" href="./mentor.html" role="button">メンター申し込みはこちら</a>
         <br><br>
     </div>
     <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2"></div>
@@ -72,7 +72,7 @@ title: 泉北NT５０周年事業
 
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
-                <img src="/images/eventImages/senboku50/DSC00084.JPG" alt="CoderDojo堺 スタジオ" class="img-responsive img-rounded center-block imageshadow" style="width:100%">
+                <img src="./images/eventImages/senboku50/DSC00084.JPG" alt="CoderDojo堺 スタジオ" class="img-responsive img-rounded center-block imageshadow" style="width:100%">
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 text-center">
                 <h4 class="text-left">
