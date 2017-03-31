@@ -40,7 +40,7 @@
       <div class="row">
         <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1"></div>
         <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 alignment-text">
-          <a href="{{BASE_PATH}}{{ post.url }}"><img src="{{ HOME_PATH }}images/{{ post.date | date: '%Y-%m-%d' }}/{{ post.topimgfilename }}" alt="{{ post.title }}" class="img-responsive img-rounded center-block"></a>
+          <a href="{{BASE_PATH}}{{ post.url }}"><img src="{{ BASE_PATH }}/images/{{ post.date | date: '%Y-%m-%d' }}/{{ post.topimgfilename }}" alt="{{ post.title }}" class="img-responsive img-rounded center-block"></a>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-7 col-lg-7 alignment-text">
           <br>
