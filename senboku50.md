@@ -44,8 +44,8 @@ title: 泉北NT５０周年事業
         <br>
         <h4 class="text-left">
             募集するにあたり、以下の注意点があります。<br>
-            ・CoderDojoは「クラブ」であって、「教室」ではありません。子ども達と一緒にプログラミングを楽しむ場としています。<br>
-            ・CoderDojoは非営利のボランティアとして活動しています。よって、交通費や日当などは出ません。<br>
+            ・CoderDojo堺は「クラブ」であって、「教室」ではありません。CoderDojo堺は、子ども達と一緒にプログラミングを楽しむ場としています。<br>
+            ・CoderDojo堺は、非営利のボランティアとして活動しています。よって、交通費や日当などは出ません。<br>
             <br>
             やってみたいと思われる方は、以下のボタンから、メンター申し込みフォームに必要事項を記載の上、ご連絡頂ければと思います。<br>
         </h4>
@@ -57,7 +57,7 @@ title: 泉北NT５０周年事業
 
 <div class="row coderdojobgcolor-base">
     <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2"></div>
-    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 text-center">
+    <div class="col-xs-10 col-sm-10 col-md-8 col-lg-8 text-center">
         <br>
         <h3>
             <span class="midasi-y">イベント内容</span>
@@ -73,6 +73,7 @@ title: 泉北NT５０周年事業
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
                 <img src="./images/eventImages/senboku50/DSC00084.JPG" alt="CoderDojo堺 スタジオ" class="img-responsive img-rounded center-block imageshadow" style="width:100%">
+                <br>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 text-center">
                 <h4 class="text-left">
