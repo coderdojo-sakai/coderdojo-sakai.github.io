@@ -13,8 +13,7 @@ future: BOOL
 #
 title : CoderDojoSakai
 tagline: Site Tagline
-baseurl : https://yasuzeni01.github.io/coderdojo-sakai.github.io
-url :https://yasuzeni01.github.io/coderdojo-sakai.github.io
+baseurl: "https://yasuzeni01.github.io/coderdojo-sakai.github.io" # the subpath of your site, e.g. /blog
 author :
   name : CoderDojo堺
   email : blah@email.test
