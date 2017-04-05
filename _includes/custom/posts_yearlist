@@ -14,7 +14,7 @@
       {% if this_year == posts_this_year %}
         {{ this_year }}年<br>
       {% else %}
-        <a href="{{ HOME_PATH }}archive/{{ this_year }}.html">{{ this_year }}年</a><br>
+        <a href="{{BASE_PATH}}/archive/{{ this_year }}.html">{{ this_year }}年</a><br>
       {% endif %}
     {% else %}
       {% if this_year == prev_year %}
@@ -22,7 +22,7 @@
         {% if this_year == posts_this_year %}
           {{ this_year }}年<br>
         {% else %}
-          <a href="{{ HOME_PATH }}archive/{{ this_year }}.html">{{ this_year }}年</a><br>
+          <a href="{{BASE_PATH}}/archive/{{ this_year }}.html">{{ this_year }}年</a><br>
         {% endif %}
       {% endif %}
     {% endif %}
