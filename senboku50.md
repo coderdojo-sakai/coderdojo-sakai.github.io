@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 泉北NT５０周年事業
+title: 泉北ニュータウンまちびらき５０周年事業
 ---
 {% include JB/setup %}
 
@@ -93,6 +93,104 @@ title: 泉北NT５０周年事業
 </div>
 
 <div class="row coderdojobgcolor-base2">
+    <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2"></div>
+    <div class="col-xs-10 col-sm-10 col-md-8 col-lg-8 text-center">
+        <br>
+        <h3>
+            <span class="midasi-y">活動スケジュール</span>
+        </h3>
+        <h4>
+            CoderDojo堺の活動予定です。<br><br>Dojo参加希望の方は、<a href="https://coderdojo-sakai.connpass.com/" target="_blank">こちら</a>からお申込み下さい。<br>
+        </h4>
+    </div>
+    <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2"></div>
+</div>
+
+<div class="row coderdojobgcolor-base2">
+    <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2"></div>
+    <div class="col-xs-10 col-sm-10 col-md-8 col-lg-8 text-center">
+
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <div width="100%" >
+                <table class="table-bordered" width="100%" style="background:#ffffff;">
+                <tr style="background:#9ACDE7">
+                    <td rowspan="2"><h5 class="text-center">開催日</h5></td>
+                    <td rowspan="2"><h5 class="text-center">開催会場</h5></td>
+                    <td colspan="2"><h5 class="text-center">開催時間</h5></td>
+                    <td rowspan="2"><h5 class="text-center">その他連絡事項</h5></td>
+                </tr>
+                <tr style="background:#9ACDE7">
+                    <td><h5 class="text-center">Ｄｏｊｏ</h5></td>
+                    <td><h5 class="text-center">説明・相談会</h5></td>
+                </tr>
+                <tr>
+                    <td>5/14（日）</td>
+                    <td>泉ヶ丘センタービル</td>
+                    <td>10:00〜12:30</td>
+                    <td>13:30〜16:00</td>
+                    <td class="text-left">説明・相談会の後、「Ozobot体験会」を実施します。</td>
+                </tr>
+                <tr>
+                    <td>6/11（日）</td>
+                    <td>泉ヶ丘センタービル</td>
+                    <td>10:00〜12:30</td>
+                    <td>13:30〜16:00</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>7/16（日）</td>
+                    <td>泉ヶ丘センタービル</td>
+                    <td>10:00〜12:30</td>
+                    <td>13:30〜16:00</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>8/20（日）</td>
+                    <td>泉ヶ丘センタービル</td>
+                    <td>10:00〜12:30</td>
+                    <td>13:30〜16:00</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>9/17（日）</td>
+                    <td>会場未定</td>
+                    <td>10:00〜12:30</td>
+                    <td>13:30〜16:00</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>10/15（日）</td>
+                    <td>会場未定</td>
+                    <td>10:00〜12:30</td>
+                    <td>13:30〜16:00</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>11/12（日）</td>
+                    <td>会場未定</td>
+                    <td>10:00〜12:30</td>
+                    <td>13:30〜16:00</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>12/17（日）</td>
+                    <td>会場未定</td>
+                    <td>10:00〜12:30</td>
+                    <td>13:30〜16:00</td>
+                    <td></td>
+                </tr>
+                </table>
+                </div>
+                ※あくまでも予定ですので、変更となる可能性があります。<br>
+                <br><br>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2"></div>
+</div>
+
+<div class="row coderdojobgcolor-base">
     <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2"></div>
     <div class="col-xs-10 col-sm-10 col-md-8 col-lg-8 text-center">
         <br>

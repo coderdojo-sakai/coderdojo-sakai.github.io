@@ -257,7 +257,7 @@ title: CoderDojo 堺
         <h3 class="alignment-text-r"><span class="midasi-y">参加イベント</span></h3>
         <br>
         <h3 class="alignment-text-r">
-            泉北ニュータウンまちびらき５０周年
+            泉北ニュータウンまちびらき５０周年事業
         </h3>
         <h4 class="text-left">
             「泉北ニュータウンまちびらき５０周年事業」とは、２０１７年で泉北ニュータウンが生誕５０周年を迎えます。<br>
