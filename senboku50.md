@@ -82,8 +82,8 @@ title: 泉北ニュータウンまちびらき５０周年事業
                     ・午前中は子ども達と一緒にプログラミングを行います。<br>
                     どの様な様子なのかを見学して頂ければと思います。<br>
                     <br>
-                    ・午後からは、実際に運営するにあたっての説明＆相談会を実施します。<br>
-                    質問事項などあれば、この時に発言して頂ければと思います。<br>
+                    ・午後からは、実際にDojo参加にあたっての説明＆相談窓口を設置します。<br>
+                    質問事項などあれば、窓口で質問して頂ければと思います。<br>
                 </h4>
                 <br><br>
             </div>
@@ -100,7 +100,7 @@ title: 泉北ニュータウンまちびらき５０周年事業
             <span class="midasi-y">活動スケジュール</span>
         </h3>
         <h4>
-            CoderDojo堺の活動予定です。<br><br>Dojo参加希望の方は、<a href="https://coderdojo-sakai.connpass.com/" target="_blank">こちら</a>からお申込み下さい。<br>
+            CoderDojo堺の活動予定です。<br><br>参加希望の方は、<a href="https://coderdojo-sakai.connpass.com/" target="_blank">こちら</a>からお申込み下さい。<br>
         </h4>
     </div>
     <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2"></div>
@@ -122,62 +122,62 @@ title: 泉北ニュータウンまちびらき５０周年事業
                 </tr>
                 <tr style="background:#9ACDE7">
                     <td><h5 class="text-center">Ｄｏｊｏ</h5></td>
-                    <td><h5 class="text-center">説明・相談会</h5></td>
+                    <td><h5 class="text-center">説明・相談</h5></td>
                 </tr>
                 <tr>
                     <td>5/14（日）</td>
-                    <td>泉ヶ丘センタービル</td>
+                    <td>泉ヶ丘センタービル<br>第７集会室</td>
                     <td>10:00〜12:30</td>
-                    <td>13:30〜16:00</td>
-                    <td class="text-left">説明・相談会の後、「Ozobot体験会」を実施します。</td>
+                    <td>13:30〜16:30</td>
+                    <td class="text-left">14:30〜16:30<br>「8x9Craft体験会（仮称）」を実施します。</td>
                 </tr>
                 <tr>
                     <td>6/11（日）</td>
                     <td>泉ヶ丘センタービル</td>
                     <td>10:00〜12:30</td>
-                    <td>13:30〜16:00</td>
+                    <td>13:30〜16:30</td>
                     <td></td>
                 </tr>
                 <tr>
                     <td>7/16（日）</td>
                     <td>泉ヶ丘センタービル</td>
                     <td>10:00〜12:30</td>
-                    <td>13:30〜16:00</td>
+                    <td>13:30〜16:30</td>
                     <td></td>
                 </tr>
                 <tr>
                     <td>8/20（日）</td>
                     <td>泉ヶ丘センタービル</td>
                     <td>10:00〜12:30</td>
-                    <td>13:30〜16:00</td>
+                    <td>13:30〜16:30</td>
                     <td></td>
                 </tr>
                 <tr>
                     <td>9/17（日）</td>
                     <td>会場未定</td>
                     <td>10:00〜12:30</td>
-                    <td>13:30〜16:00</td>
+                    <td>13:30〜16:30</td>
                     <td></td>
                 </tr>
                 <tr>
                     <td>10/15（日）</td>
                     <td>会場未定</td>
                     <td>10:00〜12:30</td>
-                    <td>13:30〜16:00</td>
+                    <td>13:30〜16:30</td>
                     <td></td>
                 </tr>
                 <tr>
                     <td>11/12（日）</td>
                     <td>会場未定</td>
                     <td>10:00〜12:30</td>
-                    <td>13:30〜16:00</td>
+                    <td>13:30〜16:30</td>
                     <td></td>
                 </tr>
                 <tr>
                     <td>12/17（日）</td>
                     <td>会場未定</td>
                     <td>10:00〜12:30</td>
-                    <td>13:30〜16:00</td>
+                    <td>13:30〜16:30</td>
                     <td></td>
                 </tr>
                 </table>
