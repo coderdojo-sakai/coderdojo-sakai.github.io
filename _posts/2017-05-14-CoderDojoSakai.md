@@ -39,7 +39,7 @@ sentence6 : '
 image4 :
 image5 :
 image6 :
-googlephotoURL : https://goo.gl/photos/VU4B5k5z59YPymb69
+googlephotoURL : 
 ---
 {% include JB/setup %}
 

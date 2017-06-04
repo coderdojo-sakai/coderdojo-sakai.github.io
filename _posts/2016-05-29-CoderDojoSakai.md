@@ -29,7 +29,7 @@ sentence5 : '
 撮影........田重田勝一郎<br>
 '
 
-googlephotoURL : https://goo.gl/photos/ZBq9fJD5SNEypuh4A
+googlephotoURL : 
 ---
 {% include JB/setup %}
 

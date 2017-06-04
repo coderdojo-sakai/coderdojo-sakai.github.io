@@ -27,7 +27,7 @@ sentence6 : '
 image4 : DSC00023.JPG
 image5 : DSC00032.JPG
 image6 : DSC00058.JPG
-googlephotoURL : https://goo.gl/photos/Hn2iEvo2rBKrjHeg9
+googlephotoURL : 
 ---
 {% include JB/setup %}
 

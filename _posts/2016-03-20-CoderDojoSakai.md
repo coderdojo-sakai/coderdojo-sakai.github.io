@@ -33,7 +33,7 @@ sentence5 : '
 写真：田重田さん<br>
 '
 
-googlephotoURL : https://goo.gl/photos/fgk2jdP7TfgRnFcdA
+googlephotoURL : 
 ---
 {% include JB/setup %}
 

@@ -27,7 +27,7 @@ sentence4 : '
 sentence5 : '
 '
 
-googlephotoURL : https://goo.gl/photos/XZ5QqmEn5BWEhRss5
+googlephotoURL : 
 ---
 {% include JB/setup %}
 

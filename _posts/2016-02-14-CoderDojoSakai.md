@@ -36,7 +36,7 @@ sentence5 : '
 カメラマン……木村　逸哉さん<br>
 '
 
-googlephotoURL : https://goo.gl/photos/CkuxJKQM5RmZ1GER9
+googlephotoURL : 
 ---
 {% include JB/setup %}
 
