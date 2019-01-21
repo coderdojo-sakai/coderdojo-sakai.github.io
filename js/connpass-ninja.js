@@ -7,6 +7,7 @@ $(document).ready(function() {
 		$.ajax({
 			url: "https://connpass.com/api/v1/event/?series_id=2620&count=5&order=2",
 			dataType: "jsonp",
+			timeout: 15000
 		})
 		// 成功処理
 		.done(function (data) {
@@ -24,6 +25,6 @@ $(document).ready(function() {
 		})
 		// 失敗処理
 		.fail(function () {
-			$(".connpass").html("<p>イベント一覧の読み込みに失敗しました。<br>申し込みサイト（下のボタン）にてイベントの確認をお願いします。</p>");
+			$(".connpass").html("<p style='color: #AAA;'>イベント一覧の読み込みに失敗しました。<br>外部サイト（conpass）にてイベントの確認をお願いします。</p>");
 		});
 });
