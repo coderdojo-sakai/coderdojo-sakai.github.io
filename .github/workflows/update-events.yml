@@ -1,0 +1,31 @@
+name: Update Connpass Events
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # 6時間ごとに実行
+  workflow_dispatch:         # 手動実行も可能
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch events from connpass API
+        run: |
+          curl -sf \
+            -H "X-API-Key: ${{ secrets.CONNPASS_API_KEY }}" \
+            "https://connpass.com/api/v2/events/?group_id=2620&count=5&order=2" \
+            -o data/events.json
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/events.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update connpass events"
+            git push
+          fi
