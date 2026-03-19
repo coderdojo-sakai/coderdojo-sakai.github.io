@@ -13,7 +13,10 @@ $(document).ready(function() {
 	})
 	.then(function(data) {
 		var html = "";
-		$.each(data.events, function(_index, value) {
+		var events = data.events.slice().sort(function(a, b) {
+			return new Date(b.started_at) - new Date(a.started_at);
+		});
+		$.each(events, function(_index, value) {
 			var ti = new Date(value.started_at);
 			var limitTime = today < ti ? "" : "done";
 			var startTime = ti.getFullYear() + "/" + (ti.getMonth() + 1) + "/" + ti.getDate()
